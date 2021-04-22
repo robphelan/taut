@@ -1,0 +1,115 @@
+2021-04-22 17:22:27 - INFO    :: CP Server Thread-11 : Cleared the tautulli.log file.
+2021-04-22 17:22:32 - INFO    :: CP Server Thread-12 : Tautulli Newsletters :: Updated newsletter agent: Recently Added (newsletter_id 4).
+2021-04-22 17:22:32 - INFO    :: CP Server Thread-12 : Tautulli NewsletterHandler :: Re-scheduled newsletter: Recently Added (newsletter_id 4)
+2021-04-22 17:22:32 - DEBUG   :: CP Server Thread-10 : Sending test Recently Added newsletter.
+2021-04-22 17:22:32 - INFO    :: Thread-3 : Tautulli NewsletterHandler :: Preparing newsletter for newsletter_id 4.
+2021-04-22 17:22:33 - INFO    :: Thread-3 : Tautulli Newsletters :: Generating newsletter.
+2021-04-22 17:22:33 - INFO    :: Thread-3 : Tautulli Newsletters :: Recently Added newsletter saved to 'newsletter_90263fbf.html'
+2021-04-22 17:22:34 - INFO    :: Thread-3 : Tautulli Notifiers :: Email notification sent.
+2021-04-22 17:30:18 - INFO    :: CP Server Thread-12 : Tautulli Newsletters :: Updated newsletter agent: Recently Added (newsletter_id 2).
+2021-04-22 17:30:18 - INFO    :: CP Server Thread-12 : Tautulli NewsletterHandler :: Re-scheduled newsletter: Recently Added (newsletter_id 2)
+2021-04-22 17:30:18 - INFO    :: CP Server Thread-13 : Tautulli Newsletters :: Generating newsletter preview.
+2021-04-22 17:30:27 - INFO    :: CP Server Thread-14 : Tautulli Newsletters :: Updated newsletter agent: Recently Added (newsletter_id 2).
+2021-04-22 17:30:27 - INFO    :: CP Server Thread-14 : Tautulli NewsletterHandler :: Re-scheduled newsletter: Recently Added (newsletter_id 2)
+2021-04-22 17:30:27 - INFO    :: CP Server Thread-10 : Tautulli Newsletters :: Generating newsletter preview.
+2021-04-22 17:30:34 - INFO    :: CP Server Thread-9 : Tautulli Newsletters :: Updated newsletter agent: Recently Added (newsletter_id 2).
+2021-04-22 17:30:34 - INFO    :: CP Server Thread-9 : Tautulli NewsletterHandler :: Re-scheduled newsletter: Recently Added (newsletter_id 2)
+2021-04-22 17:31:29 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 11 stopped.
+2021-04-22 17:31:29 - DEBUG   :: Thread-16 : Tautulli ActivityProcessor :: Play duration for session 11 ratingKey 32878 is 101 secs which is less than 120 seconds, so we're not logging it.
+2021-04-22 17:31:29 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Removing sessionKey 11 ratingKey 32878 from session queue
+2021-04-22 17:34:33 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 13 started by user 1611651 (robphelan) with ratingKey 33300 (George Carlin: It's Bad for Ya!).
+2021-04-22 17:34:44 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 13 has changed transcode decision.
+2021-04-22 17:35:59 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 13 paused.
+2021-04-22 17:38:49 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 13 resumed.
+2021-04-22 17:38:49 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 13 is buffering.
+2021-04-22 17:38:49 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 13 buffer count is 1.
+2021-04-22 17:39:24 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 13 paused.
+2021-04-22 17:40:39 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 14 started by user 1611651 (robphelan) with ratingKey 33300 (George Carlin: It's Bad for Ya!).
+2021-04-22 17:43:33 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 16 started by user 1611651 (robphelan) with ratingKey 33300 (George Carlin: It's Bad for Ya!).
+2021-04-22 17:43:34 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 16 is buffering.
+2021-04-22 17:43:34 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 16 buffer count is 1.
+2021-04-22 17:43:35 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 16 is buffering.
+2021-04-22 17:43:35 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 16 buffer count is 2.
+2021-04-22 17:43:40 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 13 stopped.
+2021-04-22 17:43:40 - DEBUG   :: Thread-16 : Tautulli ActivityProcessor :: Fetching metadata for item ratingKey 33300
+2021-04-22 17:43:40 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Removing sessionKey 13 ratingKey 33300 from session queue
+2021-04-22 17:45:10 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 16 paused.
+2021-04-22 17:46:04 - INFO    :: MainThread : Received signal: restart
+2021-04-22 17:46:04 - INFO    :: MainThread : Tautulli WebStart :: Stopping Tautulli web server...
+2021-04-22 17:46:04 - INFO    :: MainThread : [22/Apr/2021:17:46:04] ENGINE Bus STOPPING
+2021-04-22 17:46:04 - INFO    :: MainThread : [22/Apr/2021:17:46:04] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8181)) shut down
+2021-04-22 17:46:04 - INFO    :: MainThread : [22/Apr/2021:17:46:04] ENGINE Bus STOPPED
+2021-04-22 17:46:04 - INFO    :: MainThread : [22/Apr/2021:17:46:04] ENGINE Bus EXITING
+2021-04-22 17:46:04 - INFO    :: MainThread : [22/Apr/2021:17:46:04] ENGINE Bus EXITED
+2021-04-22 17:46:04 - INFO    :: MainThread : Tautulli WebSocket :: Disconnecting websocket...
+2021-04-22 17:46:04 - DEBUG   :: Thread-16 : Tautulli WebSocket :: Leaving thread.
+2021-04-22 17:46:04 - INFO    :: MainThread : Tautulli Config :: Writing configuration to file
+2021-04-22 17:46:04 - INFO    :: Thread-3 : Tautulli NotificationHandler :: Notification thread exiting...
+2021-04-22 17:46:04 - INFO    :: Thread-2 : Tautulli NotificationHandler :: Notification thread exiting...
+2021-04-22 17:46:04 - INFO    :: MainThread : Tautulli is restarting...
+2021-04-22 17:46:04 - INFO    :: MainThread : Restarting Tautulli with ['C:\\Program Files (x86)\\Tautulli\\Tautulli.exe', '--nolaunch']
+2021-04-22 17:46:08 - INFO    :: MainThread : Starting Tautulli v2.7.0
+2021-04-22 17:46:08 - INFO    :: MainThread : [Bundle] Windows 10 (10.0.19041)
+2021-04-22 17:46:08 - INFO    :: MainThread : America/Chicago (UTC-0500)
+2021-04-22 17:46:08 - INFO    :: MainThread : Python 3.8.8 (tags/v3.8.8:024d805, Feb 19 2021, 13:18:16) [MSC v.1928 64 bit (AMD64)]
+2021-04-22 17:46:08 - INFO    :: MainThread : Program Dir: C:\Program Files (x86)\Tautulli
+2021-04-22 17:46:08 - INFO    :: MainThread : Config File: C:\Users\robph\AppData\Local\Tautulli\config.ini
+2021-04-22 17:46:08 - INFO    :: MainThread : Database File: C:\Users\robph\AppData\Local\Tautulli\tautulli.db
+2021-04-22 17:46:08 - INFO    :: MainThread : Checking if the database upgrades are required...
+2021-04-22 17:46:08 - INFO    :: MainThread : Checking if configuration upgrades are required...
+2021-04-22 17:46:08 - INFO    :: MainThread : Retrieving latest version information from GitHub
+2021-04-22 17:46:08 - DEBUG   :: MainThread : Requesting URL via GET method: https://api.github.com/repos/Tautulli/Tautulli/commits/master
+2021-04-22 17:46:08 - DEBUG   :: MainThread : Latest version is c780f1fd6c57763bd0e39253ffc55be2618050ea
+2021-04-22 17:46:08 - INFO    :: MainThread : Tautulli is up to date
+2021-04-22 17:46:08 - INFO    :: Thread-1 : Tautulli PlexTV :: Requesting resources for server...
+2021-04-22 17:46:08 - INFO    :: MainThread : Tautulli NotificationHandler :: Starting background notification handler (2 threads).
+2021-04-22 17:46:08 - INFO    :: MainThread : Tautulli NewsletterHandler :: Scheduled newsletter: Recently Added (newsletter_id 2)
+2021-04-22 17:46:08 - INFO    :: MainThread : Tautulli NewsletterHandler :: Scheduled newsletter: Recently Added (newsletter_id 4)
+2021-04-22 17:46:08 - INFO    :: MainThread : Tautulli WebStart :: Initializing Tautulli web server...
+2021-04-22 17:46:08 - INFO    :: MainThread : Tautulli WebStart :: Web server authentication is enabled: Tautulli admin (username is 'robphelan') and Plex admin.
+2021-04-22 17:46:08 - INFO    :: MainThread : Tautulli WebStart :: Starting Tautulli web server on http://0.0.0.0:8181/
+2021-04-22 17:46:08 - INFO    :: MainThread : [22/Apr/2021:17:46:08] ENGINE Serving on http://0.0.0.0:8181
+2021-04-22 17:46:08 - INFO    :: MainThread : Launching Windows system tray icon.
+2021-04-22 17:46:08 - INFO    :: MainThread : Added Tautulli to Windows system startup registry key.
+2021-04-22 17:46:08 - INFO    :: MainThread : Tautulli is ready!
+2021-04-22 17:46:09 - INFO    :: Thread-1 : Tautulli Config :: Writing configuration to file
+2021-04-22 17:46:09 - INFO    :: Thread-1 : Tautulli PlexTV :: Using user-defined URL.
+2021-04-22 17:46:09 - INFO    :: Thread-1 : Tautulli PlexTV :: Selected server: Office-PC (http://192.168.86.37:32400) (Windows - Version 1.22.1.4228-724c56e62)
+2021-04-22 17:46:09 - INFO    :: Thread-1 : Tautulli Config :: Writing configuration to file
+2021-04-22 17:46:09 - DEBUG   :: Thread-1 : Tautulli Monitor :: Checking for active streams.
+2021-04-22 17:46:09 - INFO    :: Thread-16 : Tautulli WebSocket :: Opening websocket.
+2021-04-22 17:46:09 - INFO    :: Thread-1 : Tautulli Users :: Requesting users list refresh...
+2021-04-22 17:46:09 - INFO    :: Thread-16 : Tautulli WebSocket :: Ready
+2021-04-22 17:46:09 - INFO    :: Thread-16 : Scheduled background task: Check GitHub for updates
+2021-04-22 17:46:09 - INFO    :: Thread-16 : Scheduled background task: Optimize Tautulli database
+2021-04-22 17:46:09 - INFO    :: Thread-16 : Scheduled background task: Backup Tautulli database
+2021-04-22 17:46:09 - INFO    :: Thread-16 : Scheduled background task: Backup Tautulli config
+2021-04-22 17:46:09 - INFO    :: Thread-16 : Scheduled background task: Refresh Plex server URLs
+2021-04-22 17:46:09 - INFO    :: Thread-16 : Scheduled background task: Refresh users list
+2021-04-22 17:46:09 - INFO    :: Thread-16 : Scheduled background task: Refresh libraries list
+2021-04-22 17:46:10 - INFO    :: Thread-1 : Tautulli Users :: Users list refreshed.
+2021-04-22 17:46:10 - INFO    :: Thread-1 : Tautulli Libraries :: Requesting libraries list refresh...
+2021-04-22 17:46:11 - DEBUG   :: Thread-1 : Tautulli Pmsconnect :: No library data.
+2021-04-22 17:46:11 - DEBUG   :: Thread-1 : Tautulli Pmsconnect :: No library data.
+2021-04-22 17:46:11 - DEBUG   :: Thread-1 : Tautulli Pmsconnect :: No library data.
+2021-04-22 17:46:11 - INFO    :: Thread-1 : Tautulli Config :: Writing configuration to file
+2021-04-22 17:46:11 - INFO    :: Thread-1 : Tautulli Libraries :: Libraries list refreshed.
+2021-04-22 17:46:21 - INFO    :: CP Server Thread-10 : Tautulli Config :: Writing configuration to file
+2021-04-22 17:46:21 - INFO    :: CP Server Thread-10 : Tautulli Pmsconnect :: Terminating session 14 (session_id kue93yt9ob0imf2kcaqakkaz).
+2021-04-22 17:46:24 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 16 stopped.
+2021-04-22 17:46:24 - DEBUG   :: Thread-16 : Tautulli ActivityProcessor :: Play duration for session 16 ratingKey 33300 is 97 secs which is less than 120 seconds, so we're not logging it.
+2021-04-22 17:46:24 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Removing sessionKey 16 ratingKey 33300 from session queue
+2021-04-22 17:46:33 - INFO    :: CP Server Thread-9 : Tautulli Config :: Writing configuration to file
+2021-04-22 17:46:40 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 14 stopped.
+2021-04-22 17:46:40 - DEBUG   :: Thread-16 : Tautulli ActivityProcessor :: Play duration for session 14 ratingKey 33300 is 10 secs which is less than 120 seconds, so we're not logging it.
+2021-04-22 17:46:40 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Removing sessionKey 14 ratingKey 33300 from session queue
+2021-04-22 17:47:13 - INFO    :: CP Server Thread-6 : Tautulli Config :: Writing configuration to file
+2021-04-22 17:47:28 - INFO    :: CP Server Thread-9 : Tautulli Newsletters :: Updated newsletter agent: Recently Added (newsletter_id 4).
+2021-04-22 17:47:28 - INFO    :: CP Server Thread-9 : Tautulli NewsletterHandler :: Re-scheduled newsletter: Recently Added (newsletter_id 4)
+2021-04-22 17:47:31 - INFO    :: CP Server Thread-13 : Tautulli Newsletters :: Updated newsletter agent: Recently Added (newsletter_id 4).
+2021-04-22 17:47:31 - INFO    :: CP Server Thread-13 : Tautulli NewsletterHandler :: Re-scheduled newsletter: Recently Added (newsletter_id 4)
+2021-04-22 17:47:31 - DEBUG   :: CP Server Thread-11 : Sending test Recently Added newsletter.
+2021-04-22 17:47:31 - INFO    :: Thread-2 : Tautulli NewsletterHandler :: Preparing newsletter for newsletter_id 4.
+2021-04-22 17:47:32 - INFO    :: Thread-2 : Tautulli Newsletters :: Generating newsletter.
+2021-04-22 17:47:32 - INFO    :: Thread-2 : Tautulli Newsletters :: Recently Added newsletter saved to 'newsletter_e3ff7eee.html'
+2021-04-22 17:47:34 - INFO    :: Thread-2 : Tautulli Notifiers :: Email notification sent.
