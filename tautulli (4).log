@@ -1,0 +1,8 @@
+2021-04-22 17:22:27 - INFO    :: CP Server Thread-11 : Cleared the tautulli.log file.
+2021-04-22 17:22:32 - INFO    :: CP Server Thread-12 : Tautulli Newsletters :: Updated newsletter agent: Recently Added (newsletter_id 4).
+2021-04-22 17:22:32 - INFO    :: CP Server Thread-12 : Tautulli NewsletterHandler :: Re-scheduled newsletter: Recently Added (newsletter_id 4)
+2021-04-22 17:22:32 - DEBUG   :: CP Server Thread-10 : Sending test Recently Added newsletter.
+2021-04-22 17:22:32 - INFO    :: Thread-3 : Tautulli NewsletterHandler :: Preparing newsletter for newsletter_id 4.
+2021-04-22 17:22:33 - INFO    :: Thread-3 : Tautulli Newsletters :: Generating newsletter.
+2021-04-22 17:22:33 - INFO    :: Thread-3 : Tautulli Newsletters :: Recently Added newsletter saved to 'newsletter_90263fbf.html'
+2021-04-22 17:22:34 - INFO    :: Thread-3 : Tautulli Notifiers :: Email notification sent.
